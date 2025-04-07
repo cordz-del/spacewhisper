@@ -40,3 +40,8 @@ The purpose of SpaceWhisper is to provide a user-friendly interface for explorin
 - Ensure you have an OpenAI API key to use the OpenAI LLM.
 - For PDF processing, the application uses PyPDFLoader, which requires PyPDF2 to be installed.
 - The application is designed to work with NASA datasets, but it can be extended to other domains.
+
+
+## Live Demo
+
+Check out the running app on [Hugging Face Spaces](https://huggingface.co/spaces/cordz-del/spacewhisper).
